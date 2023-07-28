@@ -2,4 +2,4 @@ for practicing git branch
 
 for practicing pull request
 
-pullahgsghbjk
+git fetch- compares & notifies if any changes happened in remote repository (it will not pull the data)
